@@ -1,0 +1,5 @@
+outs:
+- md5: e16a9e540fe3eebf896d4163a88eadbb
+  size: 241082
+  path: model.joblib
+  isexec: true
