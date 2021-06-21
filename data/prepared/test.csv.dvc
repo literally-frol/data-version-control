@@ -1,0 +1,5 @@
+outs:
+- md5: 075a81f971fc5191f62d11ddffdcb527
+  size: 78592
+  path: test.csv
+  isexec: true
